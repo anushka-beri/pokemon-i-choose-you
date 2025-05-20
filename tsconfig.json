@@ -4,7 +4,8 @@
       "module": "commonjs",
       "strict": true,
       "esModuleInterop": true,
-      "jsx": "react" 
+      "jsx": "react" ,
+      "lib": ["es2018", "dom"]
     },
     "include": ["src"]
 }
